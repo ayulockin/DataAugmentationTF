@@ -11,7 +11,7 @@ Implementation of various data augmentation techniques in TensorFlow 2.x. They c
 * [CutMix](https://github.com/ayulockin/DataAugmentationTF/blob/master/CIFAR_10_with_CutMix_Augmentation.ipynb)
 * [Augmix](https://github.com/ayulockin/DataAugmentationTF/blob/master/Cifar_10_with_AugMix_Augmentation.ipynb)
 
-**Note**: Cutout, Mixup and CutMix are implememted in `tf.data` and can be found in the linked colab notebooks. I am using TensorFlow 2.x implementation of AugMix by [Aakash Nain](). His repo can be found [here](https://github.com/AakashKumarNain/AugMix_TF2). The [fork](https://github.com/ayulockin/AugMix_TF2) of this repo contains Weights and Biases integration and some additional command like arguments for more control.   
+**Note**: Cutout, Mixup and CutMix are implememted in `tf.data` and can be found in the linked colab notebooks. I am using TensorFlow 2.x implementation of AugMix by [Aakash Nain](https://twitter.com/A_K_Nain?s=09). His repo can be found [here](https://github.com/AakashKumarNain/AugMix_TF2). The [fork](https://github.com/ayulockin/AugMix_TF2) of this repo contains Weights and Biases integration and some additional command like arguments for more control.   
 
 ## Result
 
