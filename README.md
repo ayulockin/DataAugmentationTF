@@ -15,7 +15,7 @@ Implementation of various data augmentation techniques in TensorFlow 2.x. They c
 
 ## Result
 
-Check out the linked [report](https://app.wandb.ai/authors/tfaugmentation/reports/Modern-Data-Augmentation-Techniques-for-Computer-Vision--VmlldzoxNDA2NTc) for, 
+Check out the linked [report](https://app.wandb.ai/authors/tfaugmentation/reports/Modern-Data-Augmentation-Techniques-for-Computer-Vision--VmlldzoxNDA2NTc) for:
 
 * The comparative study of these augmentation techniques. 
 * Augmentation implementations.
